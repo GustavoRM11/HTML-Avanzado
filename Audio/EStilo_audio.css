@@ -1,0 +1,21 @@
+body{
+    background: cadetblue;
+}
+.audio{
+    width: 350px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 90px;
+    transform: scale(1.06);
+}
+.audio button{
+    width: 50px;
+    color: rgb(2, 2, 2);
+    border-color: aqua;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 90px;
+}
